@@ -12,7 +12,7 @@ int main(){
 		if (arr[i]< small){
 			small = arr[i];
 		}
-		
+		zkdjfgjsk
 		
 	}
 	
