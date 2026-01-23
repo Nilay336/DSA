@@ -12,10 +12,11 @@ int main(){
 		if (arr[i]< small){
 			small = arr[i];
 		}
-		zkdjfgjsk
+		
 		
 	}
 	
 	printf("small: %d\nlarge: %d", small, large);
 	return 0;
 }
+
